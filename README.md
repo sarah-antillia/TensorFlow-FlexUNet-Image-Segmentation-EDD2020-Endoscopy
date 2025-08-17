@@ -43,7 +43,7 @@ dataset appear similar to the ground truth masks.<br>
 <hr>
 <br>
 <h3>1. Dataset Citatioin</h3>
-The orginal dataset use here has been taken from
+The orginal dataset used here has been taken from
 <a href="https://www.kaggle.com/datasets/orvile/edd2020-endoscopy-detection-and-segmentation">
 <b>EDD2020: Endoscopy Detection and Segmentation</b> 
 </a>
